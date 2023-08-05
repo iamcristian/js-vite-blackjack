@@ -14,4 +14,4 @@ Pasos para ejecutar proyecto:
 
 ## GitHub Pages
 
-(https://iamcristian.github.io/js-vite-blackjack/)
+https://iamcristian.github.io/js-vite-blackjack/
